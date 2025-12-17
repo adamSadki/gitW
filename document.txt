@@ -1,0 +1,5 @@
+git init => // kydif git 3lih
+git commit =>
+git add test.html  =>
+git commit -m "message"  =>
+git status -s
