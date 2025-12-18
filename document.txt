@@ -11,3 +11,4 @@ git pull origin main => هبط آخر تحديثات
 git checkout -b =>طريق جديدكنخدمو بلا ما نخلطو مع main
 gitignore => 
 git rm --cached hello.html => tatkhraj file mn git taywli may3rfoch
+head --> master --> m1  // git commit -m"m2"// head --> master --> m2 // git commit -m"m3"// head --> master --> m3
