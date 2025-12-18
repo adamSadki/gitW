@@ -4,3 +4,10 @@ git add test.html  =>
 git commit -m "message"  =>
 git status -s
 git add . || git add * => tatzid lina jami3 file
+git log => iformation de file
+git remote add origin => كنربط المشروع بـ GitLab
+git push origin main =>طلّع الخدمة للموقع
+git pull origin main => هبط آخر تحديثات
+git checkout -b =>طريق جديدكنخدمو بلا ما نخلطو مع main
+gitignore => 
+git rm --cached hello.html => tatkhraj file mn git taywli may3rfoch
